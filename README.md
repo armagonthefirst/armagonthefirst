@@ -4,12 +4,14 @@ I’m a data science and finance graduate interested in building practical analy
 
 My work sits across data analysis, predictive modelling, visualisation, and applied software development. I enjoy turning messy data and real-world problems into structured tools, dashboards, and decision-support systems.
 
-## About me
+## Skill Stack
 
-- Interested in data science, machine learning, financial analytics, and applied AI
-- Comfortable working with Python, R, SQL, JavaScript, Power BI, Tableau, and Flask
-- I like building projects that combine technical modelling with practical business use
-- Currently focused on strengthening my portfolio, GitHub, and real-world project deployment
+- **Languages:** Python, R, Java, SQL, JavaScript 
+- **Visualisation Tools:** Power BI, Tableau, R Shiny, Py Dash
+- **Cloud Deployment & Databases:** Experienced in deploying resources across Amazon Web Services (EC2, RDS SQL Databases), Oracle Cloud (Cloud compute, Heatwave SQL Databases) and Azure (Virtual Machines, Azure SQL Databases). 
+- **Machine Learning Models:** Supervised Learning, Unsupervised Learning, Reinforcement Learning, and Deep Learning Models (Graph Neural Networks)  
+- **Financial Knowledge:** Financial Modelling for derivatives pricing (Black-Scholes, Monte Carlo, Binomial Tree), Portfolio Risk Analysis, Volatility Modelling, Core Accounting and Tax Concepts.
+- **AI Integration:** Experience integrating OpenAI, Gemini, and Copilot APIs into applications, with work in prompt handling, structured outputs, and experimentation across Llama 3, Qwen3, and Mistral workflows
 
 ## Featured projects
 
@@ -37,8 +39,9 @@ Built a project around option pricing and volatility comparison to explore diffe
 
 ## Connect with me
 
-- LinkedIn: [Add your LinkedIn here]
-- Email: [Add your email here]
+- LinkedIn: [https://www.linkedin.com/in/shariq-usoof-b51a041b6/]
+- Email: [shariq2@live.com]
+- Website : [www.shariqusoof.com]
 
 ---
 Thanks for visiting my profile.
