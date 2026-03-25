@@ -15,9 +15,9 @@ My work sits across data analysis, predictive modelling, visualisation, and appl
 
 ## What I’m working on
 
-- Developing and deploying my a live machine-learniing based options pricing platform
-- Studying AWS and Azure Data Engineering certifications
-- Enhancing ERA Group's automated foreign exchange spread visualisations (www.era-fx.com)
+- Developing and deploying my a live machine learning based options pricing platform
+- Obtaining AWS and Azure Data Engineering certifications
+- Enhancing ERA Group's automated foreign exchange spread visualisations ([www.era-fx.com])
 
 ## Connect with me
 
