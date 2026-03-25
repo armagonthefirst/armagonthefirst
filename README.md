@@ -6,7 +6,7 @@ My work sits across data analysis, predictive modelling, visualisation, and appl
 
 ## Skill Stack
 
-- **Languages:** Python, R, Java, SQL, JavaScript 
+- **Languages:** Python, R, SQL, JavaScript 
 - **Visualisation Tools:** Power BI, Tableau, R Shiny, Py Dash
 - **Cloud Deployment & Databases:** Amazon Web Services, Oracle Cloud, and Azure. 
 - **Machine Learning Models:** Machine Learning and Deep Learning Models (Graph Neural Networks)  
