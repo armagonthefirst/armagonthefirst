@@ -11,7 +11,7 @@ My work sits across data analysis, predictive modelling, visualisation, and appl
 - **Cloud Deployment & Databases:** Amazon Web Services, Oracle Cloud, and Azure. 
 - **Machine Learning Models:** Machine Learning and Deep Learning Models (Graph Neural Networks)  
 - **Financial Knowledge:** Financial Modelling (Black-Scholes, Monte Carlo, Binomial Tree), Portfolio Risk Analysis, Volatility Modelling, Core Accounting and Tax Concepts.
-- **AI Integration:** Integrating of OpenAI, Gemini, and Copilot APIs into applications, and experimentation across Llama 3, Qwen3, and Mistral workflows
+- **AI Integration:** Integration of OpenAI, Gemini, and Copilot APIs into applications.
 
 ## Featured projects
 
