@@ -8,10 +8,10 @@ My work sits across data analysis, predictive modelling, visualisation, and appl
 
 - **Languages:** Python, R, Java, SQL, JavaScript 
 - **Visualisation Tools:** Power BI, Tableau, R Shiny, Py Dash
-- **Cloud Deployment & Databases:** Experienced in deploying resources across Amazon Web Services (EC2, RDS SQL Databases), Oracle Cloud (Cloud compute, Heatwave SQL Databases) and Azure (Virtual Machines, Azure SQL Databases). 
-- **Machine Learning Models:** Supervised Learning, Unsupervised Learning, Reinforcement Learning, and Deep Learning Models (Graph Neural Networks)  
+- **Cloud Deployment & Databases:** Amazon Web Services, Oracle Cloud, and Azure. 
+- **Machine Learning Models:** Machine Learning and Deep Learning Models (Graph Neural Networks)  
 - **Financial Knowledge:** Financial Modelling for derivatives pricing (Black-Scholes, Monte Carlo, Binomial Tree), Portfolio Risk Analysis, Volatility Modelling, Core Accounting and Tax Concepts.
-- **AI Integration:** Experience integrating OpenAI, Gemini, and Copilot APIs into applications, with work in prompt handling, structured outputs, and experimentation across Llama 3, Qwen3, and Mistral workflows
+- **AI Integration:** Integrating of OpenAI, Gemini, and Copilot APIs into applications, and experimentation across Llama 3, Qwen3, and Mistral workflows
 
 ## Featured projects
 
