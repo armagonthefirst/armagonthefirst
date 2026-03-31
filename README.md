@@ -15,7 +15,7 @@ My work sits across data analysis, predictive modelling, visualisation, and appl
 
 ## What I’m working on
 
-- Developing and deploying my live machine learning based derivatives pricing platform ([options.shariqusoof.com])
+- Developing and deploying my live machine learning based derivatives pricing platform ([https://options.shariqusoof.com])
 - Obtaining AWS and Azure Data Engineering certifications
 - Enhancing ERA Group's automated foreign exchange spread visualisations ([www.era-fx.com])
 
