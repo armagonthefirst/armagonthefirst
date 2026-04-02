@@ -2,7 +2,7 @@
 
 I’m a data science and finance graduate interested in building practical analytics, machine learning, and fintech solutions.
 
-My work sits across data analysis, predictive modelling, visualisation, and applied software development. I enjoy turning messy data and real-world problems into structured tools, dashboards, and decision-support systems.
+My work sits across data analysis, predictive modelling, visualisation, and applied software development.
 
 ## Skill Stack
 
